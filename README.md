@@ -4,6 +4,7 @@ Customized Lua for use in C,C++,Go programs.
 ## Features
 - Based on Lua 5.4.3
 - Single File Header
+- Cross Platform(Windows,Linux,MacOS)
 
 ## Todo
 - [x] Interface to C
