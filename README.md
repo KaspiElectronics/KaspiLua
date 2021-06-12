@@ -5,6 +5,12 @@ Customized Lua for use in C,C++,Go programs.
 - Based on Lua 5.4.3
 - Single File Header
 
+## Todo
+- [x] Interface to C
+- [ ] Interface to C++
+- [ ] Interface to Go
+- [ ] Interface to Rust
+- [ ] Interface to V
 ## About
 Copyright (c) 2021 **KaspiElectronics**, \
 all rights reserved.
