@@ -9,6 +9,7 @@ Customized Lua for use in C,C++,Go programs.
 ## Todo
 - [x] Interface to C
 - [x] Interface to C++
+- [ ] Interface to Python[**WIP**]
 - [ ] Interface to Go
 - [ ] Interface to Rust
 - [ ] Interface to V
