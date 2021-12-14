@@ -9,6 +9,7 @@ Customized Lua for use in C,C++,Go programs.
 ## Todo
 - [x] Interface to C
 - [x] Interface to C++
+- [x] Interface to [Hascal](https://github.com/hascal/hascal)
 - [ ] Interface to Go
 - [ ] Interface to Rust
 - [ ] Interface to V
